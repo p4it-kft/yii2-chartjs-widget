@@ -4,6 +4,7 @@
   "type": "yii2-extension",
     "keywords": [
         "p4it-kft",
+        "2amigOS",
         "yii2",
         "extension",
         "widget",
@@ -11,6 +12,12 @@
     ],
   "minimum-stability": "stable",
   "authors": [
+    {
+      "name": "2amigOS! Consulting Group",
+      "email": "hola@2amigos.us",
+      "homepage": "http://2amigos.us",
+      "role": "Developer"
+    },
     {
       "name": "Papp Péter",
       "email": "papp.peter@p4it.hu"
@@ -24,8 +31,7 @@
   ],
   "require": {
     "php": ">=7.4",
-    "yiisoft/yii2": "~2.0.6",
-        "nnnick/chartjs": "^3.5"
+    "yiisoft/yii2": "~2.0.6"
   },
   "autoload": {
     "psr-4": {
